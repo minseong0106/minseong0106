@@ -4,8 +4,8 @@
 Computer Graphics에 관심있는 24살 개발자
 
 <h3>목표</h3>
-✅NeRF와 관련된 다양한 논문들 읽어보고 새로운 idea 제안하기  
-✅Image Rendering  
+✅NeRF와 관련된 다양한 논문들 읽어보고 새로운 idea 제안하기                                                               
+✅Image Rendering                                      
 ✅Deep Learning, VR  
 
 <h3>🛠사용언어</h3>
