@@ -18,7 +18,7 @@ Computer Graphics에 관심있는 24살 개발자
 </div>
 
 <h3>저를 더 알고싶다면</h3>
-<a href="https://leon0106@g.skku.edu">
+<a href="https://minseong01063@gmail.com">
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
